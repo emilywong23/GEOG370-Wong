@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "route2lib",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "id": 2 }, "geometry": { "type": "MultiLineString", "coordinates": [ [ [ -79.057232047184442, 35.916048566036082 ], [ -79.056236993345507, 35.914118764651469 ], [ -79.049754066819091, 35.916576246102181 ], [ -79.047206125928469, 35.911872355227203 ], [ -79.048216256340723, 35.911450211174319 ] ] ] } }
+]
+}
